@@ -1,0 +1,1 @@
+python -u friendster.py --data friendster --rmax 4e-8 --hidden 128 --dropout 0.1 --layer 4 --batch 2048 --rwnum 10000
