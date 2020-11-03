@@ -1,6 +1,6 @@
 # Scalable Graph Neural Networks via Bidirectional Propagation
 
-This repository contains a PyTorch implementation of "Scalable Graph Neural Networks via Bidirectional Propagation".(https://arxiv.org/abs/2007.02133)
+This repository contains a PyTorch implementation of "Scalable Graph Neural Networks via Bidirectional Propagation".(http://arxiv.org/abs/2010.15421)
 
 ## Requirements
 - CUDA 10.1.243
